@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:title="Beranda"
+    android:icon="@drawable/baseline_home_24"/>
+
+    <item
+        android:title="Promo"
+        android:icon="@drawable/baseline_storefront_24"/>
+
+    <item
+        android:title="Pesanan"
+        android:icon="@drawable/baseline_playlist_add_circle_24"/>
+
+    <item
+        android:title="Chat"
+        android:icon="@drawable/baseline_mark_unread_chat_alt_24"/>
+</menu>
